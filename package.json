@@ -1,6 +1,6 @@
 {
   "name": "nyansole",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Nyancat in ur console!",
   "main": "lib/magic.js",
   "scripts": {
@@ -9,7 +9,6 @@
   "author": "Alex Mingoia <alex@bloodhound.com>",
   "license": "BSD",
   "dependencies": {
-    "charm": "~0.2.0",
-    "colors": "~0.6.2"
+    "charm": "~0.2.0"
   }
 }
