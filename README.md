@@ -2,6 +2,8 @@
 
 Nyancat in ur console!
 
+![nyansole](https://s3.amazonaws.com/bldhnd.icon/temp-320-58496348.gif)
+
 ## API
 
 ### new Nyancat()
