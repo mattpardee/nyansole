@@ -20,4 +20,8 @@ Stop nyancat where it is.
 
 Set nyancat length to percentage of screen width, for use as progress bar.
 
+### Nyancat#end()
+
+Stop animating the nyancat.
+
 ## BSD Licensed
